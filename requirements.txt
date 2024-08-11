@@ -1,3 +1,4 @@
+Gunicorn
 Flask
 nltk
 opencv-python-headless
